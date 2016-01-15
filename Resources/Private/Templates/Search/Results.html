@@ -1,0 +1,10 @@
+<f:layout name="Default" />
+
+<f:section name="main">
+	<f:debug>{results}</f:debug>
+	<ul>
+		<f:for each="{results}" as="result">
+			<li><a href="{f:uri.page(pageUid: result.page_uid)}">{result.title}</a></li>
+		</f:for>
+	</ul>
+</f:section>

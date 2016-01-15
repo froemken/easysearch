@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2016-01-14T20:03:19Z" product-name="easysearch">
+		<header/>
+		<body>
+
+			<trans-unit id="plugin.title">
+				<source>Easysearch</source>
+			</trans-unit>
+
+		</body>
+	</file>
+</xliff>
